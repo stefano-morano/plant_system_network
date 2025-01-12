@@ -27,6 +27,10 @@ This project implements a LoRaWAN-based system to monitor environmental and moti
 4. Monitor Data: Use the ResIot dashboard to visualize real-time and historical data.
 5. Send Commands: Control node behavior via server commands (e.g., change RGB LED color).
 
+<div align="center">
+    <img src="Dashboard.png" alt="Description" width="800"/>
+</div>
+
 ## Future Enhancements
 
 - Add additional sensors for expanded monitoring capabilities.
